@@ -112,7 +112,7 @@ script-to-service/
 │   └── cleanup_task.py
 │
 ├── README.md
-└── deploy.md
+└── DEPLOY.md
 ```
 >If you understand this structure, you understand the project.
 
