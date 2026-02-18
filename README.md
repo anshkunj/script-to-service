@@ -156,7 +156,29 @@ Small details — but these separate **scripts** from **services**.
 
 ---
 
-## Author
-
-Built as part of my **Script → Service** work —  
+## 👤 Author
+**anshkunj**  
+>Built as part of my **Script → Service** work —  
 turning boring manual work into live automation services.
+
+### 📫 Let’s connect
+- **GitHub:** https://github.com/anshkunj
+- **LinkedIn:** https://linkedin.com/in/anshkunj
+- **LeetCode:** https://leetcode.com/u/anshkunj
+- **Devpost:** https://devpost.com/anshkunj
+- **HackerRank:** https://www.hackerrank.com/profile/anshkunj
+- **AtCoder:** https://atcoder.jp/users/anshkunj
+- **Codeforces:** https://codeforces.com/profile/anshkunj
+- **Fiverr:** https://www.fiverr.com/anshkunj
+- **Freelancer:** https://www.freelancer.com/u/anshkunj
+
+---
+
+## ⭐ Support
+If you found this project helpful, give it a star ⭐  
+It motivates me to build more real-world projects 🚀
+
+---
+
+## 🔹 Note
+This repository is regularly updated with new scripts and improvements. 
